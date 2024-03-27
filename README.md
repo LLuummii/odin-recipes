@@ -1,0 +1,1 @@
+in this project i will be making a simple recipe with only html. skills needed: basic html and git
